@@ -1,0 +1,220 @@
+::selection {
+    background: #bb9453;
+    color: #fff;
+}
+::-moz-selection {
+    background: #bb9453;
+    /*Firefox*/
+    
+    color: #fff;
+}
+.tags a:hover {
+    color: #bb9453;
+}
+.info a {
+    background-color: #bb9453;
+}
+li.current_page_item a {
+    color: #bb9453 !important;
+}
+.ds_navigation_menu ul.menu > li > a:hover {
+    text-decoration: none;
+    color: #bb9453;
+}
+.appointment_btn a {
+    background-color: #bb9453;
+}
+.appointment_btn a:hover {
+    color: #bb9453;
+}
+button.navbar_toggle i.fa {
+    color: #bb9453;
+}
+h2.block_title:before {
+    background: #bb9453;
+}
+.price_right {
+    color: #bb9453;
+}
+.panel_body a {
+    color: #bb9453;
+}
+.panel_default h4.panel-title:hover {
+    color: #bb9453;
+}
+.infotextwrap {
+    background: #bb9453;
+}
+.testimonial_author {
+    color: #bb9453;
+}
+.titleborderOut .titleborder:after,
+.slides_times li.ds_wtime {
+    background: #bb9453;
+}
+.ds_description a {
+    color: #bb9453;
+}
+.ds_social a i.fa:hover {
+    background: #bb9453;
+}
+#copyright a {
+    color: #bb9453;
+}
+.footer_button a {
+    background: #bb9453;
+}
+.opening_times li .time {
+    color: #bb9453;
+}
+.bottom_tab h3:hover {
+    background: #bb9453;
+}
+.slide_anchor {
+    background-color: #bb9453;
+}
+.playfontbold {
+    Color: #bb9453 !important;
+    border-bottom: 3px solid #bb9453 !important;
+    border-top: 3px solid #bb9453 !important;
+}
+.pagecontent .ds_pagecontentContent_title h1:after {
+    background: #bb9453;
+}
+.single-portfolio-skils ul li i {
+    color: #bb9453;
+}
+.project_section .link a {
+    background: #bb9453;
+}
+.ds_pagecontentContent_breadcrumb span {
+    color: #bb9453;
+}
+.ds_entry h2.title:before {
+    background: #bb9453;
+}
+.ds_blogpostcategory .blogmore,
+.blogmore {
+    background: #bb9453;
+}
+.ds_widgett .wttitle h4 a:hover {
+    color: #bb9453;
+}
+.widget a:hover {
+    color: #bb9453 !important;
+}
+.ds_tagcloud a {
+    background: #bb9453;
+}
+.sidebar_toogle {
+    background-color: #bb9453;
+    box-shadow: 1px 0px 7px 1px #bb9453;
+}
+ul.blog_ul li:hover {
+    background-color: #bb9453;
+}
+.blog_ul li.active {
+    background-color: #bb9453;
+}
+.post_meta_title:hover {
+    color: #bb9453;
+}
+a.read_more {
+    background-color: #bb9453;
+}
+.paginations span,
+.paginations a {
+    color: #bb9453;
+}
+.paginations .current {
+    background: #bb9453;
+}
+.pmc_aoute_of:hover {
+    border-left: 4px solid #bb9453;
+}
+.pmc_blocks:hover .pmc_icon_border {
+    background: #bb9453;
+}
+.pmc_icon i {
+    background: #bb9453;
+    border: 4px solid rgb(187, 121, 11);
+}
+.conclusion h2:before {
+    background: #bb9453;
+}
+.ds_related .image:hover {
+    background-color: #bb9453;
+}
+#submit_frm:hover {
+    background: #bb9453;
+}
+.panel_default_toggle .panel-heading:hover .panel-title:before {
+    background: #bb9453;
+}
+.panel_default_toggle .panel-heading:hover .panel-title .collapsed:before {
+    background: #bb9453;
+}
+.counter_icon i.fa {
+    font-size: 4em;
+    color: #bb9453;
+}
+.ds_counter:hover .pmc_counter_border {
+    width: 100px;
+    background: #bb9453;
+}
+.btn_color1 {
+    background-color: #bb9453;
+    border-color: #bb9453;
+}
+.icon_bg {
+    background-color: #bb9453;
+    border-color: #bb9453;
+}
+.table_darkgreen {
+    background-color: #bb9453;
+}
+.submit_frm {
+    background-color: #bb9453 !important;
+}
+
+.submit_btn {
+    background-color: #bb9453 !important;
+}
+.sub-menu {
+    background: rgba(187, 148, 83, 0.93);
+}
+.goto_real {
+    color: #bb9453;
+}
+.contact li i.fa {
+    color: #bb9453;
+    margin-right: 10px;
+}
+.info a {
+    background-color: #bb9453;
+}
+.ui-tabs-vertical .ui-tabs-nav li:hover {
+    background-color: #bb9453;
+}
+.ui-state-active,
+.ui-widget-content .ui-state-active,
+.ui-widget-header .ui-state-active {
+    background-color: #bb9453;
+}
+.tagcloud a:hover {
+    color: #fff !important;
+}
+.slider_main .bx-controls-direction a {
+    background-color: #bb9453;
+}
+/*stylists circle*/
+#style-switcher .bottom a.settings i {
+    color: #bb9453;
+}
+.ih-item.circle.effect1 .spinner {
+    border-right-color: #bb9453;
+    border-bottom-color: #bb9453;
+}
+.services-hide .Doller_c {
+    color: #bb9453;
+}

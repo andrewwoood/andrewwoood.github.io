@@ -1,0 +1,216 @@
+::selection {
+    background: #336699;
+    color: #fff;
+}
+::-moz-selection {
+    background: #336699;
+    /* Firefox */
+    
+    color: #fff;
+}
+.tags a:hover {
+    color: #336699;
+}
+li.current_page_item a {
+    color: #336699 !important;
+}
+.ds_navigation_menu ul.menu > li > a:hover {
+    text-decoration: none;
+    color: #336699;
+}
+.appointment_btn a {
+    background-color: #336699;
+}
+.appointment_btn a:hover {
+    color: #336699;
+}
+button.navbar_toggle i.fa {
+    color: #336699;
+}
+h2.block_title:before {
+    background: #336699;
+}
+.price_right {
+    color: #336699;
+}
+.panel_body a {
+    color: #336699;
+}
+.panel_default h4.panel-title:hover {
+    color: #336699;
+}
+.infotextwrap {
+    background: #336699;
+}
+.testimonial_author {
+    color: #336699;
+}
+.titleborderOut .titleborder:after,
+.slides_times li.ds_wtime {
+    background: #336699;
+}
+.ds_description a {
+    color: #336699;
+}
+.ds_social a i.fa:hover {
+    background: #336699;
+}
+#copyright a {
+    color: #336699;
+}
+.footer_button a {
+    background: #336699;
+}
+.opening_times li .time {
+    color: #336699;
+}
+.bottom_tab h3:hover {
+    background: #336699;
+}
+.slide_anchor {
+    background-color: #336699;
+}
+.playfontbold {
+    Color: #336699 !important;
+    border-bottom: 3px solid #336699 !important;
+    border-top: 3px solid #336699 !important;
+}
+.pagecontent .ds_pagecontentContent_title h1:after {
+    background: #336699;
+}
+.single-portfolio-skils ul li i {
+    color: #336699;
+}
+.project_section .link a {
+    background: #336699;
+}
+.ds_pagecontentContent_breadcrumb span {
+    color: #336699;
+}
+.ds_entry h2.title:before {
+    background: #336699;
+}
+.ds_blogpostcategory .blogmore,
+.blogmore {
+    background: #336699;
+}
+.ds_widgett .wttitle h4 a:hover {
+    color: #336699;
+}
+.widget a:hover {
+    color: #336699 !important;
+}
+.ds_tagcloud a {
+    background: #336699;
+}
+.sidebar_toogle {
+    background-color: #336699;
+    box-shadow: 1px 0px 7px 1px #336699;
+}
+ul.blog_ul li:hover {
+    background-color: #336699;
+}
+.blog_ul li.active {
+    background-color: #336699;
+}
+.post_meta_title:hover {
+    color: #336699;
+}
+a.read_more {
+    background-color: #336699;
+}
+.paginations span,
+.paginations a {
+    color: #336699;
+}
+.paginations .current {
+    background: #336699;
+}
+.pmc_aoute_of:hover {
+    border-left: 4px solid #336699;
+}
+.pmc_blocks:hover .pmc_icon_border {
+    background: #336699;
+}
+.pmc_icon i {
+    background: #336699;
+    border: 4px solid #477BAF;
+}
+.conclusion h2:before {
+    background: #336699;
+}
+.ds_related .image:hover {
+    background-color: #336699;
+}
+#submit_frm:hover {
+    background: #336699;
+}
+.panel_default_toggle .panel-heading:hover .panel-title:before {
+    background: #336699;
+}
+.panel_default_toggle .panel-heading:hover .panel-title .collapsed:before {
+    background: #336699;
+}
+.counter_icon i.fa {
+    font-size: 4em;
+    color: #336699;
+}
+.ds_counter:hover .pmc_counter_border {
+    width: 100px;
+    background: #336699;
+}
+.btn_color1 {
+    background-color: #336699;
+    border-color: #336699;
+}
+.icon_bg {
+    background-color: #336699;
+    border-color: #336699;
+}
+.table_darkgreen {
+    background-color: #336699;
+}
+.submit_frm {
+    background-color: #336699 !important;
+}
+.submit_btn {
+    background-color: #336699 !important;
+}
+.sub-menu {
+    background: rgba(51, 102, 153, 0.95);
+}
+.goto_real {
+    color: #336699;
+}
+.contact li i.fa {
+    color: #336699;
+    margin-right: 10px;
+}
+.info a {
+    background-color: #336699;
+}
+.ui-tabs-vertical .ui-tabs-nav li:hover {
+    background-color: #336699;
+}
+.ui-state-active,
+.ui-widget-content .ui-state-active,
+.ui-widget-header .ui-state-active {
+    background-color: #336699;
+}
+.tagcloud a:hover {
+    color: #fff !important;
+}
+.slider_main .bx-controls-direction a {
+    background-color: #336699;
+}
+/*stylists circle*/
+#style-switcher .bottom a.settings i {
+    color: #336699;
+}
+.ih-item.circle.effect1 .spinner {
+    border-right-color: #336699;
+    border-bottom-color: #336699;
+}
+.services-hide .Doller_c {
+    color: #336699;
+}

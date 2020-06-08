@@ -1,0 +1,26 @@
+body {
+  background-color: #DBEBC0 !important;
+}
+
+.mainHeader, .bodyText {
+  text-align: center;
+  color: #131B23;
+  margin-top: 25px;
+}
+
+.center {
+  text-align: center;
+  list-style-position: inside;
+  color: #131B23;
+}
+
+/*
+Color scheme:
+    French Blue:       #2274A5
+    Bone:              #E7DFC6
+    Alice Blue (White):#E9F1F7
+    Rich Black:        #131B23
+    Tea Green:         #DBEBC0
+    */
+
+/*# sourceMappingURL=style.css.map */

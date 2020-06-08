@@ -4,27 +4,45 @@ $aBlue: #E9F1F7;
 $rBlack: #131B23;
 $tGreen: #DBEBC0;
 
-body {
-    background-color: $tGreen !important;
+
+@media (min-width: 500px) {
+    body {
+        background-color: $fBlue !important;
+    }
 }
+
+@media (max-width: 499px) {
+    body {
+        background-color: $rBlack !important;
+    }
+}
+
+
+
 
 %text {
     text-align: center;
-    color: $rBlack;
+    color: $bone;
     margin-top: 25px;
 }
+
+#wiebeo {
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   
+    -webkit-background-clip: text;
+    color: transparent;
+  }
 
 .mainHeader, .bodyText{
     @extend %text;
 }
 
-.center {
-    text-align: center;
-    list-style-position: inside;
-    color: $rBlack;
+.list-group-item {
+    border: 2px solid $tGreen !important;
 }
 
-
+.container {
+    justify-content: center;
+}
 
 /*
 Color scheme:

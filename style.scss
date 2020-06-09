@@ -18,12 +18,14 @@ $tGreen: #DBEBC0;
 }
 
 
-
-
 %text {
     text-align: center;
     color: $bone;
     margin-top: 25px;
+}
+ 
+.mainHeader, .bodyText{
+    @extend %text;
 }
 
 #wiebeo {
@@ -32,10 +34,6 @@ $tGreen: #DBEBC0;
     color: transparent;
   }
 
-.mainHeader, .bodyText{
-    @extend %text;
-}
-
 .list-group-item {
     border: 2px solid $tGreen !important;
 }
@@ -43,6 +41,20 @@ $tGreen: #DBEBC0;
 .container {
     justify-content: center;
 }
+
+.navbar {
+    background-color: $rBlack;
+}
+
+.table {
+    background-color: $tGreen;
+    tr {
+        color: $rBlack;
+    }
+}
+
+
+
 
 /*
 Color scheme:

@@ -28,6 +28,17 @@
   justify-content: center;
 }
 
+.navbar {
+  background-color: #131B23;
+}
+
+.table {
+  background-color: #DBEBC0;
+}
+.table tr {
+  color: #131B23;
+}
+
 /*
 Color scheme:
     French Blue:       #2274A5

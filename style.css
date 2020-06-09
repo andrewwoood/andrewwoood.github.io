@@ -39,6 +39,10 @@
   color: #131B23;
 }
 
+.list-group, .d-block {
+  margin: 20px;
+}
+
 /*
 Color scheme:
     French Blue:       #2274A5
